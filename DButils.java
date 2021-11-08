@@ -1,6 +1,5 @@
 Hi
 Hello everyone...
-this is apractice...
-this is updated in master branch
-this is update in master2 branch
+this is apractice.
+git stash..
 
